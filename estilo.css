@@ -1,0 +1,213 @@
+
+
+#recente{
+	float:right;
+	font-size: 25px;
+	margin-right: 150px;
+	margin-top:100px;
+	background-color: #292929;
+	width: 270px;
+	text-align: center;
+}
+
+.leia3{
+    color: mediumseagreen;
+    float:right;
+	font-size: 15px;
+	margin-right: -80px;
+	margin-top:280px;
+	  }
+
+	  .recente{
+	float:right;
+	font-size: 25px;
+	margin-right: -270px;
+	margin-top: 320px;
+	background-color: #292929;
+	width: 270px;
+	text-align:center;
+
+
+	  }
+
+	  .categoria{
+    float: right;
+    margin-right: -105px;
+    margin-top: 360px;
+    
+	
+
+	  }
+
+
+.link2{
+	 color: #3cb371
+
+}
+
+    /*
+	margin-right: -250px;
+	margin-top: -1340px;
+	width: 250px;
+	text-align: center;
+	padding: 1px;
+	background: #292929;
+	padding-left: 20px;
+	padding-top: -10px
+		*/ 
+
+
+.postagens2{
+	float:right;
+	font-size: 15px;
+	margin-right: -203px;
+	margin-top:230px;
+
+}
+
+.postagens{
+	float:right;
+	font-size: 15px;
+	margin-right: -203px;
+	margin-top:140px;
+  }
+
+.leia{
+    background: #292929;
+    color: mediumseagreen;
+}
+
+.leia2{
+    color: mediumseagreen;
+    float:right;
+	font-size: 15px;
+	margin-right: -80px;
+	margin-top:180px;
+
+}
+
+
+
+.hr2{
+	background: #292929;
+	margin-right: 148px;
+	margin-left: 988px;
+	margin-top: -1400px;
+}
+
+
+.hr{
+	background: #292929;
+	margin-right: 148px;
+	margin-left: 988px;
+	margin-top: -1770px;
+}
+
+#corpo{
+	width: 1000px;
+	;
+ }
+
+
+.meio{
+background: #FFF;
+margin-left: 200px;
+margin-top: 100px;
+
+
+}
+
+body{
+	background: #FFF;
+}
+
+
+.corblog{
+	color: #e9e9e9;
+    display: inline;
+    
+}
+
+.cortec{
+	color: #292929;
+	display: inline;
+}
+
+
+
+img{
+	height: 500px
+}
+
+
+h2{
+	font-family: sans-serif;
+	font-size: 30px;
+	color: mediumseagreen;
+	font-weight:bold;
+
+}
+
+h1{
+	font-family: sans-serif;
+	font-size: 50px;
+
+
+}
+
+p{
+	font-family: sans-serif;
+	font-weight: lighter;
+	margin-right: 39px
+}
+
+
+a:hover{
+	color: #e9e9e9;
+	background: #292929;
+			}
+
+
+
+
+
+
+a{
+  padding: 6px;
+  text-decoration: none;
+  font-family: sans-serif;
+  font-weight: bold;
+  color: #FFF;
+
+
+}
+
+.a{
+	padding: 10px
+}
+
+#topo{
+	background-color: mediumseagreen;
+	padding: 40px;
+	margin: -8px;
+	text-align: center;	;/
+	width: 100%
+}
+
+#rodape{
+	padding: 20px;
+	font-weight: bold;
+	font-family:sans-serif;
+	margin-top: 200px;
+	margin-bottom: 50px
+
+}
+
+.back{
+    background-color: #292929;
+    margin-right: -300px;
+    margin-left: 100px;
+    background-position: center;
+    text-align: center;
+    color: #3cb371
+}
